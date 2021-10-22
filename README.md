@@ -5,8 +5,8 @@
 ## Play the quiz to know about me!
 <br>
 # How to setup?
-## 1. Clone the repository locally.
-## 2. run
+1. Clone the repository locally.
+2. run
 ``` console
 npm install && npm start
 ```
