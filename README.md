@@ -14,3 +14,4 @@ Play the quiz to know about me!
 ``` console
 npm install && npm start
 ```
+3. node game.js
